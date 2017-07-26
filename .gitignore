@@ -1,0 +1,6 @@
+# Output dirs
+out/
+bin/
+
+# macOS files
+.DS_Store
